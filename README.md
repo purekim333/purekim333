@@ -11,13 +11,17 @@
 
 ### Projects
 ---
-    - Congestion Pricing for Yellow Zone Selection and Enforcement System Development
-Korea Data Agency, Korea (Jul. 2022 ~ Sep. 2022) 
-    - DCX business diagnosis and direction suggestion: data-based digital native financial life analysis and service design
-Woori Financial Group, Korea (Oct. 2022 ~ Dec. 2022) 
-    - Data-based future housing experience design centered on one- and two-person households
-GS Engineering & Construction, Korea (May. 2023 ~ Oct. 2023) 
+    - Congestion Pricing for Yellow Zone Selection and Enforcement System Development 
+    [Korea Data Agency, Korea (Jul. 2022 ~ Sep. 2022)] 
 
+
+    - DCX business diagnosis and direction suggestion: data-based digital native financial life analysis and service design 
+    [Woori Financial Group, Korea (Oct. 2022 ~ Dec. 2022)]
+
+
+    - Data-based future housing experience design centered on one- and two-person households 
+    [GS Engineering & Construction, Korea (May. 2023 ~ Oct. 2023)]
+---
 ### Research Interests
 ---
     - Business intelligence
@@ -25,4 +29,5 @@ GS Engineering & Construction, Korea (May. 2023 ~ Oct. 2023)
     - Artificial intelligence
     - Natural language processing
     - Human–computer interaction
-
+    - eXplainable AI
+---
