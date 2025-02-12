@@ -22,12 +22,3 @@
     - Data-based future housing experience design centered on one- and two-person households 
     [GS Engineering & Construction, Korea (May. 2023 ~ Oct. 2023)]
 ---
-### Research Interests
----
-    - Business intelligence
-    - Management information systems
-    - Artificial intelligence
-    - Natural language processing
-    - Human–computer interaction
-    - eXplainable AI
----
